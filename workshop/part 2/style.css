@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+.main-continer-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-2{
+  width: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+#image1_2{
+  width: 330px;
+  border-radius: 50%;
+  border-style: double;
+  border-color: #5880A2;;
+
+}
+#image2_2{
+  width: 210px;
+  margin-top: -30px;
+}
+#image3_2{
+  width: 65px;
+}
+.random-text-1-2{
+    color: #BCA680;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3.3px;
+}
+.random-text-2-2{
+  color: #5880A2;
+  font-weight: 400;
+  font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+
+}
